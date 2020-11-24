@@ -15,7 +15,7 @@ public class Buku {
     int jumlahhalaman;
     int tebalbuku;
     int terjual;
-    // Ini merupakan konstruktor dari kelas hewan. konstruktor adalah method yang pertama kali dijalankan ketika object diciptakan.
+    
     public Buku(String judul) {
         namabuku = judul;
     }
